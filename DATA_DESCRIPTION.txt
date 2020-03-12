@@ -1,9 +1,21 @@
-DATA DESCRIPTION
 
-For this problem, we will get the services of Foursquare API to explore the data of two cities, in terms of their neighborhoods. 
-The data also include the information about the places around each neighborhood like restaurants, hotels, coffee shops, parks, 
-theaters, art galleries, museums and many more. We selected one Borough from each city to analyze their neighborhoods. Manhattan
-from New York and Downtown Toronto from Toronto. We will use machine learning technique, “Clustering” to segment the neighborhoods
-with similar objects on the basis of each neighborhood data. These objects will be given priority on the basis of foot 
-traffic (activity) in their respective neighborhoods. This will help to locate the tourist’s areas and hubs, and then we 
-can judge the similarity or dissimilarity between two cities on that basis.
+Description of the Problem and Background
+
+Scenario:
+I am a data scientist residing in Downtown Singapore. I currently live within walking distance to Downtown Telok Ayer MRT 
+metro station and I enjoy many ammenities and venues in the area, such as various international cousine restaurants, cafes, 
+food shops and entertainment. I have been offered a great opportunity to work for a leader firm in Manhattan, NY. I am very 
+excited and I want to use this opportunity to practice my learnings in Coursera in order to answer relevant questions arisen. 
+The key question is : How can I find a convenient and enjoyable place similar to mine now in Singapore? Certainly, I can use 
+available real estate apps and Google but the idea is to use and apply myself the learned tools during the course. In order to 
+make a comparison and evaluation of the rental options in Manhattan NY, I must set some basis, therefore the apartment in Manhattan
+must meet the following demands:
+
+apartment must be 2 or 3 bedrooms
+desired location is near a metro station in the Manhattan area and within 1.0 mile (1.6 km) radius
+price of rent not exceed $7,000 per month
+top ammenities in the selected neighborhood shall be similar to current residence
+desirable to have venues such as coffee shops, restaurants Asian Thai, wine stores, gym and food shops
+as a reference, I have included a map of venues near current residence in Singapore.
+Business Problem:
+The challenge is to find a suitable apartment for rent in Manhattan NY that complies with the demands on location, price and venues. The data required to resolve this challenge is described in the following section 2, below.
