@@ -1,0 +1,9 @@
+DATA DESCRIPTION
+
+For this problem, we will get the services of Foursquare API to explore the data of two cities, in terms of their neighborhoods. 
+The data also include the information about the places around each neighborhood like restaurants, hotels, coffee shops, parks, 
+theaters, art galleries, museums and many more. We selected one Borough from each city to analyze their neighborhoods. Manhattan
+from New York and Downtown Toronto from Toronto. We will use machine learning technique, “Clustering” to segment the neighborhoods
+with similar objects on the basis of each neighborhood data. These objects will be given priority on the basis of foot 
+traffic (activity) in their respective neighborhoods. This will help to locate the tourist’s areas and hubs, and then we 
+can judge the similarity or dissimilarity between two cities on that basis.
