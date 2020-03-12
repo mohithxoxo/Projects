@@ -1,12 +1,21 @@
-PROBLEM & BACKGROUND
 
-Toronto and New York are the famous places in the world. They are diverse in many ways. Both are multicultural as well as the
-financial hubs of their respective countries. We want to explore how much they are similar or dissimilar in aspects from a tourist
-point of view regarding food, accommodation, beautiful places, and many more.
+Description of the Problem and Background
 
-Today Tourism is one of the pillars of the economy and the people most often visits those countries who are rich in heritage 
-and developed enough from a foreign prospective, like friendly environment. Every city is unique in their own way and give 
-something new. And now the information is so common regarding location of every place around the world on your fingertips 
-which make it easier to explore. Therefore, tourists always eager to travel to different places on the basis of available 
-information, and the comparison (the part of the information) between the two cities always assist to choose the specific 
-places or according to their choice.
+Scenario:
+I am a data scientist residing in Downtown Singapore. I currently live within walking distance to Downtown Telok Ayer MRT 
+metro station and I enjoy many ammenities and venues in the area, such as various international cousine restaurants, cafes, 
+food shops and entertainment. I have been offered a great opportunity to work for a leader firm in Manhattan, NY. I am very 
+excited and I want to use this opportunity to practice my learnings in Coursera in order to answer relevant questions arisen. 
+The key question is : How can I find a convenient and enjoyable place similar to mine now in Singapore? Certainly, I can use 
+available real estate apps and Google but the idea is to use and apply myself the learned tools during the course. In order to 
+make a comparison and evaluation of the rental options in Manhattan NY, I must set some basis, therefore the apartment in Manhattan
+must meet the following demands:
+
+apartment must be 2 or 3 bedrooms
+desired location is near a metro station in the Manhattan area and within 1.0 mile (1.6 km) radius
+price of rent not exceed $7,000 per month
+top ammenities in the selected neighborhood shall be similar to current residence
+desirable to have venues such as coffee shops, restaurants Asian Thai, wine stores, gym and food shops
+as a reference, I have included a map of venues near current residence in Singapore.
+Business Problem:
+The challenge is to find a suitable apartment for rent in Manhattan NY that complies with the demands on location, price and venues. The data required to resolve this challenge is described in the following section 2, below.
